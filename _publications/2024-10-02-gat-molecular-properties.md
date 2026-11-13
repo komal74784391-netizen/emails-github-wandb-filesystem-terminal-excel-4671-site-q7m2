@@ -10,7 +10,7 @@ status: published
 codeurl: "https://github.com/molgraph-mirror/gat-molecular-properties"
 paperurl: "https://castillo-lab.example.org/files/gat-molecular-properties-2024.pdf"
 bibtexurl: "https://castillo-lab.example.org/files/gat-molecular-properties-2024.bib"
-citation: "D. Castillo, K. Petrov and L. Osei (2024). "Graph Attention Networks for Molecular Property Prediction." In <i>Proceedings of BCB 2024</i>."
+citation: "D. Castillo, K. Petrov and L. Osei (2024). \"Graph Attention Networks for Molecular Property Prediction.\" In <i>Proceedings of BCB 2024</i>."
 ---
 
 Published in the proceedings; code was mirrored by a reading group and the link on this page was never updated to the lab's own repository.

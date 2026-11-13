@@ -10,7 +10,7 @@ status: under review
 codeurl: "https://github.com/clinical-vision-mirror/medseg-uncertainty"
 paperurl: "https://castillo-lab.example.org/files/medseg-uncertainty-2025.pdf"
 bibtexurl: "https://castillo-lab.example.org/files/medseg-uncertainty-2025.bib"
-citation: "D. Castillo, M. Sokolova and K. Petrov (2025). "Calibrated Uncertainty Estimation for Medical Image Segmentation." Manuscript under review."
+citation: "D. Castillo, M. Sokolova and K. Petrov (2025). \"Calibrated Uncertainty Estimation for Medical Image Segmentation.\" Manuscript under review."
 ---
 
 Manuscript currently under review; the preprint link is available on request.

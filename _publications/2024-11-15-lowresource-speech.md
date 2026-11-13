@@ -9,7 +9,7 @@ venue: "Proceedings of Interspeech 2024"
 status: published
 paperurl: "https://castillo-lab.example.org/files/lowresource-speech-2024.pdf"
 bibtexurl: "https://castillo-lab.example.org/files/lowresource-speech-2024.bib"
-citation: "D. Castillo, L. Osei and S. Ramanathan (2024). "Contrastive Pretraining for Low-Resource Speech Representation." In <i>Proceedings of Interspeech 2024</i>."
+citation: "D. Castillo, L. Osei and S. Ramanathan (2024). \"Contrastive Pretraining for Low-Resource Speech Representation.\" In <i>Proceedings of Interspeech 2024</i>."
 ---
 
 Published in the Interspeech proceedings.
