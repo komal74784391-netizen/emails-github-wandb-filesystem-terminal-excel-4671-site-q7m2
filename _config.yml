@@ -1,0 +1,13 @@
+title: Castillo Learning Systems Lab
+description: Efficient learning systems, reproducible artifacts.
+url: https://castillo-lab.example.org
+baseurl: ""
+theme: minima
+collections:
+  publications:
+    output: true
+    permalink: /:collection/:path/
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
