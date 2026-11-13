@@ -7,7 +7,7 @@ excerpt: "A graph attention architecture with edge-conditioned messages that imp
 date: 2024-10-02
 venue: "Proceedings of the 2024 ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (BCB 2024)"
 status: published
-codeurl: "https://github.com/molgraph-mirror/gat-molecular-properties"
+codeurl: "https://github.com/komal74784391-netizen/emails-github-wandb-filesystem-terminal-excel-4671-site-q7m2/tree/main/_code/gat-molecular-properties-2025"
 paperurl: "https://castillo-lab.example.org/files/gat-molecular-properties-2024.pdf"
 bibtexurl: "https://castillo-lab.example.org/files/gat-molecular-properties-2024.bib"
 citation: "D. Castillo, K. Petrov and L. Osei (2024). \"Graph Attention Networks for Molecular Property Prediction.\" In <i>Proceedings of BCB 2024</i>."
