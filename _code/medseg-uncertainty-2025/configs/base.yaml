@@ -1,0 +1,7 @@
+in_channels: 1
+num_classes: 4
+base_channels: 32
+batch_size: 8
+learning_rate: 0.0001
+epochs: 90
+dataset: isic2018

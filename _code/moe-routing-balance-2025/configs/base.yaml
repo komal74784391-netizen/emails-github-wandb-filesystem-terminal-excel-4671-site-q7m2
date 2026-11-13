@@ -1,0 +1,17 @@
+model:
+  hidden_size: 768
+  num_layers: 12
+router:
+  num_experts: 16
+  top_k: 2
+  capacity_factor: 1.25
+  jitter: 0.01
+train:
+  batch_size: 32
+  learning_rate: 0.0005
+  warmup_steps: 4000
+  clip_grad: 1.0
+  max_steps: 120000
+data:
+  train_split: multilingual_train
+  eval_split: multilingual_dev
